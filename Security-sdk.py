@@ -1,4 +1,4 @@
-##Creator Thomas Yiu and o1 ChatGPT
+##Creator Thomas Yiu and OpenAI o1
 
 import subprocess
 import sys
