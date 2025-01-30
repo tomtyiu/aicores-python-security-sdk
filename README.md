@@ -1,5 +1,9 @@
 # aicores-python-security-sdk
 Security SDK for python
+Following tools: 
+- pip-adit
+- safety 
+- bandit - Bandit is a tool designed to find common security issues in Python code. To do this, Bandit processes each file, builds an AST from it, and runs appropriate plugins against the AST nodes. Once Bandit has finished scanning all the files, it generates a report. (link)[https://bandit.readthedocs.io/en/latest/index.html]
 
 ## How to install
 ### Create a virtual environment
