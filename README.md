@@ -15,4 +15,5 @@ source venv/bin/activate
 ###
 ```bash
 pip install bandit pip-audit safety
+pip install flask==0.5
 ```
