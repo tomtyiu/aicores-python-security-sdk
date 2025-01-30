@@ -20,5 +20,5 @@ pip install flask==0.5
 ###
 in Terminal type:
 ```bash
-python
+python Security-sdk.py
 ```
