@@ -26,3 +26,10 @@ in Terminal type:
 ```bash
 python Security-sdk.py
 ```
+
+## example of full security sweep:
+```bash
+pip-audit (or pip-audit --desc)
+safety system-scan: 
+bandit (filename)
+```
