@@ -31,5 +31,5 @@ python Security-sdk.py
 ```bash
 pip-audit (or pip-audit --desc)
 safety system-scan
-bandit (filename)
+bandit (python filename)
 ```
